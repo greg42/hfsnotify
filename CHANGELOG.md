@@ -1,6 +1,11 @@
 Changes
 =======
 
+Version 0.2.1.2
+---------------
+
+Prevent broken symlinks from disrupting directory watching
+
 Version 0.2.1.1
 ---------------
 
